@@ -7,10 +7,6 @@ function App() {
       <TodoApp />
       <TodoApp />
       <TodoApp />
-<<<<<<< HEAD
-=======
-      <TodoApp />
->>>>>>> 443cca0 (update app)
     </div>
   );
 }
