@@ -10,6 +10,10 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "mongoose": "^8.14.1",
+    "pg": "^8.15.6",
     "react": "^19.0.0",
     "react-dom": "^19.0.0"
   },
@@ -25,5 +29,18 @@
     "typescript": "~5.7.2",
     "typescript-eslint": "^8.26.1",
     "vite": "^6.3.1"
-  }
+  },
+  "description": "This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.",
+  "main": "eslint.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/avishek-yco/my-todo-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/avishek-yco/my-todo-app/issues"
+  },
+  "homepage": "https://github.com/avishek-yco/my-todo-app#readme"
 }
