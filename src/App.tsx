@@ -4,7 +4,7 @@ import TodoApp from './components/TodoApp';
 const App: React.FC = () => {
   return (
     <div className="App" style={styles.appContainer}>
-      <h1 style={styles.header}>Todo App</h1>
+      <h1 style={styles.header}></h1>
       <TodoApp />
     </div>
   );
